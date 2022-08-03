@@ -1,2 +1,3 @@
 This is dev 1 files
 Hello
+This is merge file by dev 1
